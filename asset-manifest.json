@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/Zori-React/static/js/main.efc33a91.chunk.js",
+    "main.js.map": "/Zori-React/static/js/main.efc33a91.chunk.js.map",
+    "runtime-main.js": "/Zori-React/static/js/runtime-main.d13e8308.js",
+    "runtime-main.js.map": "/Zori-React/static/js/runtime-main.d13e8308.js.map",
+    "static/js/2.9c56f0eb.chunk.js": "/Zori-React/static/js/2.9c56f0eb.chunk.js",
+    "static/js/2.9c56f0eb.chunk.js.map": "/Zori-React/static/js/2.9c56f0eb.chunk.js.map",
+    "index.html": "/Zori-React/index.html",
+    "static/js/2.9c56f0eb.chunk.js.LICENSE.txt": "/Zori-React/static/js/2.9c56f0eb.chunk.js.LICENSE.txt",
+    "static/media/image1.8828649b.jpg": "/Zori-React/static/media/image1.8828649b.jpg",
+    "static/media/image10.d37f90c2.jpg": "/Zori-React/static/media/image10.d37f90c2.jpg",
+    "static/media/image11.d64bcdf0.jpg": "/Zori-React/static/media/image11.d64bcdf0.jpg",
+    "static/media/image12.3a1b0306.jpg": "/Zori-React/static/media/image12.3a1b0306.jpg",
+    "static/media/image13.d196c8b0.jpg": "/Zori-React/static/media/image13.d196c8b0.jpg",
+    "static/media/image14.58ae44dd.jpg": "/Zori-React/static/media/image14.58ae44dd.jpg",
+    "static/media/image2.cc18cd97.jpg": "/Zori-React/static/media/image2.cc18cd97.jpg",
+    "static/media/image20.26bee7df.jpg": "/Zori-React/static/media/image20.26bee7df.jpg",
+    "static/media/image21.e5af62cc.jpg": "/Zori-React/static/media/image21.e5af62cc.jpg",
+    "static/media/image22.54602c32.jpg": "/Zori-React/static/media/image22.54602c32.jpg",
+    "static/media/image3.917ed916.jpg": "/Zori-React/static/media/image3.917ed916.jpg",
+    "static/media/image4.c9b470c6.jpg": "/Zori-React/static/media/image4.c9b470c6.jpg",
+    "static/media/video.7dd2f17e.mp4": "/Zori-React/static/media/video.7dd2f17e.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d13e8308.js",
+    "static/js/2.9c56f0eb.chunk.js",
+    "static/js/main.efc33a91.chunk.js"
+  ]
+}
