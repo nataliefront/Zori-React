@@ -16,28 +16,28 @@ const Navbar = () => {
             <IconContext.Provider value={{ color: 'white' }}>
                 <Nav>
                     <NavbarContainer>
-                        <NavLogo to="/" onClick={closeMobileMenu}>Зоряний Двір</NavLogo>
+                        <NavLogo to="/Zori-React" onClick={closeMobileMenu}>Зоряний Двір</NavLogo>
                         <MobileIcon onClick={handleClick}>
                             { click ? <FaTimes /> : <FaBars /> } 
                         </MobileIcon>
                         <NavMenu onClick={handleClick} click={click}>
                             <NavItem>
-                                <NavLinks to='/'>
+                                <NavLinks to='/Zori-React'>
                                     Головна
                                 </NavLinks>
                             </NavItem>
                             <NavItem>
-                                <NavLinks to='/rooms'>
+                                <NavLinks to='/Zori-React/rooms'>
                                     Номери
                                 </NavLinks>
                             </NavItem>
                             <NavItem>
-                                <NavLinks to='/services'>
+                                <NavLinks to='/Zori-React/services'>
                                     Відпочинок
                                 </NavLinks>
                             </NavItem>
                             <NavItem>
-                                <NavLinks to='/contacts'>
+                                <NavLinks to='/Zori-React/contacts'>
                                     Контакти
                                 </NavLinks>
                             </NavItem>

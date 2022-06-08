@@ -16,10 +16,10 @@ function App() {
       <GlobalStyle />
       <Navbar />
       <Routes>
-        <Route path='/' element={ <Home /> } />
-        <Route path='/rooms' element={ <Rooms /> } />
-        <Route path='/services' element={ <Services /> } />
-        <Route path='/contacts' element={ <Contacts /> } />
+        <Route path='/Zori-React' element={ <Home /> } />
+        <Route path='/Zori-React/rooms' element={ <Rooms /> } />
+        <Route path='/Zori-React/services' element={ <Services /> } />
+        <Route path='/Zori-React/contacts' element={ <Contacts /> } />
       </Routes>
       <Phone />
       <Footer />
