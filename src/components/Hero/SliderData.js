@@ -7,7 +7,7 @@ export const SliderData = [
     {
         title: 'Зимові свята у Карпатах',
         text: 'від 1200 грн',
-        path: '/services',
+        path: '/Zori-React/services',
         label: 'Забронювати',
         image: image1,
         alt: 'House'
@@ -15,7 +15,7 @@ export const SliderData = [
     {
         title: 'Камін, який зігріває',
         text: 'З виглядом на гори',
-        path: '/services',
+        path: '/Zori-React/services',
         label: 'Дивитись',
         image: image2,
         alt: 'House'
@@ -23,7 +23,7 @@ export const SliderData = [
     {
         title: 'Люкс номера',
         text: 'від 1200 грн',
-        path: '/rooms',
+        path: '/Zori-React/rooms',
         label: 'Дивитись',
         image: image3,
         alt: 'House'
@@ -31,7 +31,7 @@ export const SliderData = [
     {
         title: 'Джерельні води Карпат',
         text: "Цілющі сили здоров'я",
-        path: '/services',
+        path: '/Zori-React/services',
         label: 'Ознайомитись',
         image: image4,
         alt: 'House'
